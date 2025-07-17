@@ -1,5 +1,4 @@
 # Retail_Product_Profitability_Excel_Analysis
-This repository contains an analysis of a retail store product performance
 
 **Project Background**
 
